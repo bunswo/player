@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  sort_order: 1
+  content_type_id: 
+  group_id: 
+  filename: MyString
+  thumbnail: MyString
+
+two:
+  title: MyString
+  description: MyText
+  sort_order: 1
+  content_type_id: 
+  group_id: 
+  filename: MyString
+  thumbnail: MyString
